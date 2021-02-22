@@ -1,2 +1,2 @@
 # leetcode-solutions
-A new approach to lleetcode questions
+A new approach to leetcode questions
